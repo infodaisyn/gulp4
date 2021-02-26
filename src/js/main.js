@@ -1,0 +1,1 @@
+console.log('gulp js file src');
